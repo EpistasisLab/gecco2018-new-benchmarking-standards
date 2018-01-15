@@ -54,7 +54,7 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 <img src="images/randy.jpg" width="200px" align="left" style="margin-right:10px" />
 
-[Dr. Olson](http://www.randalolson.com/) is a Senior Data Scientist working on open source software for evolutionary computation and machine learning research. Dr. Olson received his Ph.D. from Michigan State University, where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and automated machine learning.
+[Dr. Olson](http://www.randalolson.com/) is the Lead Data Scientist at [Life Epigenetics, Inc.](https://lifeegx.com), where he is merging epigenetics research with advanced machine learning methods to improve life expectancy prediction for the life insurance industry. Dr. Olson previously worked as a postdoc and research staff with Prof. Jason H. Moore at the University of Pennsylvania, and received his Ph.D. from Michigan State University where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and Automated Machine Learning.
 
 <br /><br /><br />
 
