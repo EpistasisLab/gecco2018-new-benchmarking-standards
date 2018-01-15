@@ -32,7 +32,7 @@ Registration deadline: May 1, 2018
 
 ### Paper Submission
 
-Please submit your paper to lacava@upenn.edu with a subject line indicating the workshop.
+Submitted papers will use the GECCO submission system this year.
 
 Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2018 Call for Papers Preparation Instructions](http://gecco-2018.sigevo.org/index.html/Call+for+Papers). However, note that the review process of the workshop is not double-blind, so authors' information may be included in the submitted paper.
 
