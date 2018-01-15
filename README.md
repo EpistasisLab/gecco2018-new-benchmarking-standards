@@ -40,7 +40,8 @@ All accepted papers will be presented at the workshop and appear in the GECCO Co
 
 ### Organizers
 
-This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz, all from the [Institute for Biomedical Informatics](http://upibi.org/) at the University of Pennsylvania (Philadelphia, PA, USA).
+This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz. 
+Bill, Patryk and Ryan are from the [Institute for Biomedical Informatics](http://upibi.org/) at the University of Pennsylvania (Philadelphia, PA, USA).
 
 #### William La Cava 
 
