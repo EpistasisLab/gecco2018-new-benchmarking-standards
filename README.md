@@ -1,6 +1,6 @@
 <img src="images/gecco_logo.gif" width="35%" />
 
-Date: **Sunday July 16, 2018 (14:00-15:50)**
+Date: **July 16, 2018**
 
 Location: Kyoto, Japan @ [GECCO 2018](http://gecco-2018.sigevo.org/)
 
