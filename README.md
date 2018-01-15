@@ -1,4 +1,4 @@
-<img src="images/gecco_logo.jpg" width="35%" />
+<img src="images/gecco_logo.gif" width="35%" />
 
 Date: **Sunday July 16, 2018 (14:00-15:50)**
 
