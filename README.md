@@ -52,7 +52,7 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 [Dr. Olson](http://www.randalolson.com/) is a Senior Data Scientist working on open source software for evolutionary computation and machine learning research. Dr. Olson received his Ph.D. from Michigan State University, where he studied under Prof. Christoph Adami at the BEACON Center. He has been actively involved in GECCO for several years and won best paper awards at GECCO in 2014 and 2016 for his work in evolutionary agent-based modeling and automated machine learning.
 
-<br />
+<br /><br />
 
 <img src="images/patryk.jpg" width="200px" align="left" style="margin-right:10px" />
 
