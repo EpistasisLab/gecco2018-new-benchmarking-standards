@@ -42,11 +42,15 @@ All accepted papers will be presented at the workshop and appear in the GECCO Co
 
 This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz, all from the [Institute for Biomedical Informatics](http://upibi.org/) at the University of Pennsylvania (Philadelphia, PA, USA).
 
+# 
+
 <img src="images/bill.jpg" width="200px" align="left" style="margin-right:10px" />
 
-[Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search and parent selection.
+[Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search, parent selection, and representation learning.
 
 <br /><br />
+
+# 
 
 <img src="images/randy.jpg" width="200px" align="left" style="margin-right:10px" />
 
@@ -54,11 +58,15 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 <br /><br />
 
+# 
+
 <img src="images/patryk.jpg" width="200px" align="left" style="margin-right:10px" />
 
 [Dr. Orzechowski](http://home.agh.edu.pl/~patrick/) is a postdoctoral researcher in AI. He obtained his Ph.D. in Computer Science and a Masters of Automation and Robotics from AGH University of Science and Technology, Krakow, Poland. His scientific interests are in the areas of machine learning, bioinformatics and artificial intelligence. He also specializes in data mining and mobile technologies.
 
 <br /><br />
+
+# 
 
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
