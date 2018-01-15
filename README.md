@@ -46,7 +46,11 @@ This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk
 
 <img src="images/bill.jpg" width="200px" align="left" style="margin-right:10px" />
 
-[Dr. La Cava](http://www.williamlacava.com/) is a postdoctoral fellow who received his Ph.D. from the University of Massachusetts Amherst under Professors Kourosh Danai and Lee Spector. His research focus is system identification for dynamic systems in statistical genetics. He has contributed papers to GECCO in the genetic programming track on methods for local search, parent selection, and representation learning.
+[Dr. La Cava](http://www.williamlacava.com/)  is a postdoctoral fellow in the Institute for Biomedical
+Informatics at Penn. He received his Ph.D. in 2016 from UMass Amherst under Professors
+Kourosh Danai and Lee Spector. His research focuses on identifying causal models of disease from
+patient health records and genome wide association studies. His contributions in genetic programming
+include methods for local search, parent selection, and representation learning.
 
 <br /><br /><br />
 
