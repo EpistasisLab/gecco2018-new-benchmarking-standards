@@ -26,7 +26,7 @@ Workshop paper submission deadline: March 27, 2018
 
 Notification of acceptance: April 10, 2018
 
-Camera-ready deadline: April TBA, 2018
+Camera-ready deadline: April 24, 2018
 
 Registration deadline: May 1, 2018
 
@@ -34,7 +34,7 @@ Registration deadline: May 1, 2018
 
 Submitted papers will use the GECCO submission system this year.
 
-Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2018 Call for Papers Preparation Instructions](http://gecco-2018.sigevo.org/index.html/Call+for+Papers). However, note that the review process of the workshop is not double-blind, so authors' information may be included in the submitted paper.
+Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2018 Call for Papers Preparation Instructions](http://gecco-2018.sigevo.org/index.html/Call+for+Papers). 
 
 All accepted papers will be presented at the workshop and appear in the GECCO Conference Companion Proceedings.
 
