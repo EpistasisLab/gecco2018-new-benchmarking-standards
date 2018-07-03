@@ -10,34 +10,14 @@ Benchmarks are one of the primary tools that machine learning researchers use to
 
 This workshop will host speakers from around the world who will propose new standards for benchmarking evolutionary computation algorithms. These talks will focus on (i) characterizing current benchmarking methods to better understand what properties of an algorithm are tested via a benchmark comparison, and (ii) proposing improvements to benchmarking standards, for example via new benchmarks that fill gaps in current benchmarking suites or via better experimental methods. At the end of the workshop, we will host a panel discussion to review the merits of the proposed benchmarking standards and how we can integrate them into existing benchmarking workflows.
 
-### Call for Papers
+### Schedule
 
-The focus of this workshop is to highlight promising new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers on topics that could include but are not limited to:
-
-* Examining the merits or issues regarding benchmarking practices.
-* Development or expansion of benchmark data archives or tools.
-* The importance of simulated vs. real-world bechmarks.
-* Analysis of, or comparison between established benchmarks.
-* Targeting benchmarks to different domains.
-
-### Important Dates
-
-Workshop paper submission deadline: March 27, 2018
-
-Notification of acceptance: April 10, 2018
-
-Camera-ready deadline: April 24, 2018
-
-Registration deadline: May 1, 2018
-
-### Paper Submission
-
-Submitted papers will use the GECCO submission system this year.
-
-Submitted papers must not exceed 8 pages and are required to be in compliance with the [GECCO 2018 Call for Papers Preparation Instructions](http://gecco-2018.sigevo.org/index.html/Call+for+Papers). 
-
-All accepted papers will be presented at the workshop and appear in the GECCO Conference Companion Proceedings.
-
+**Monday, July 16, 14:00 - 15:40**
+ - 14:00 - 14:20: Introduction: A Brief Critique of Benchmarking (La Cava)
+ - 14:20 - 14:40: Analysing Symbolic Regression Benchmarks under a Meta-Learning Approach (Oliveira et. al.)
+ - 14:40 - 15:00: Maze Benchmark for Testing Evolutionary Algorithms (Cordoba and Perdomo)
+ - 15:00 - 15:20: The Impact of Statistics for Benchmarking in Evolutionary Computation Research (Eftimov and Korosec)
+ - 15:20 - 15:40: Evolving Benchmark Functions Using Kruskal-Wallis Test (Lou et. al.) 
 ### Organizers
 
 This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz. 
