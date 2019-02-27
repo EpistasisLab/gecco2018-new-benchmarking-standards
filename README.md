@@ -1,8 +1,8 @@
 <img src="images/gecco_logo.gif" width="35%" />
 
-Date: **July 16, 2018**
+Date: **July 13th-17th 2019**
 
-Location: Kyoto, Japan @ [GECCO 2018](http://gecco-2018.sigevo.org/)
+Location: Prague, Czech Republic @ [GECCO 2019](http://gecco-2019.sigevo.org/) ([Link to workshop](https://gecco-2019.sigevo.org/index.html/Workshops#id_New%20Standards%20for%20Benchmarking%20in%20Evolutionary%20Computation%20Research))
 
 ### Workshop Description
 
@@ -10,14 +10,28 @@ Benchmarks are one of the primary tools that machine learning researchers use to
 
 This workshop will host speakers from around the world who will propose new standards for benchmarking evolutionary computation algorithms. These talks will focus on (i) characterizing current benchmarking methods to better understand what properties of an algorithm are tested via a benchmark comparison, and (ii) proposing improvements to benchmarking standards, for example via new benchmarks that fill gaps in current benchmarking suites or via better experimental methods. At the end of the workshop, we will host a panel discussion to review the merits of the proposed benchmarking standards and how we can integrate them into existing benchmarking workflows.
 
-### Schedule
+### Call for Papers ###
 
-**Monday, July 16, 14:00 - 15:40**
- - 14:00 - 14:20: Introduction: A Brief Critique of Benchmarking (La Cava)
- - 14:20 - 14:40: Analysing Symbolic Regression Benchmarks under a Meta-Learning Approach (Oliveira et. al.)
- - 14:40 - 15:00: Maze Benchmark for Testing Evolutionary Algorithms (Cordoba and Perdomo)
- - 15:00 - 15:20: The Impact of Statistics for Benchmarking in Evolutionary Computation Research (Eftimov and Korosec)
- - 15:20 - 15:40: Evolving Benchmark Functions Using Kruskal-Wallis Test (Lou et. al.) 
+The focus of this workshop is to highlight promising new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers on topics that could include but are not limited to:
+
+* Examining the merits or issues regarding benchmarking practices.
+* Development or expansion of benchmark data archives or tools.
+* The importance of simulated vs. real-world bechmarks.
+* Analysis of, or comparison between established benchmarks.
+* Targeting benchmarks to different domains.
+
+### Important Dates ###
+
+Workshop paper submission deadline: April 3, 2019
+
+Notification of acceptance: April 17, 2019
+
+Camera-ready deadline: April 24, 2019
+
+### Submission Instructions
+
+Submissions are managed [through the GECCO submission site](https://ssl.linklings.net/conferences/gecco/).
+
 ### Organizers
 
 This workshop will be organized by Drs. William La Cava, Randal S. Olson, Patryk Orzechowski, and Ryan J. Urbanowicz. 
