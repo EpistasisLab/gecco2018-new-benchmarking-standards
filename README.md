@@ -69,6 +69,6 @@ include methods for local search, parent selection, and representation learning.
 
 <img src="images/ryan.jpg" width="200px" align="left" style="margin-right:10px" />
 
-[Dr. Urbanowicz](http://www.ryanurbanowicz.com/) is a research associate with a Ph.D in Genetics from Dartmouth College and a Masters of Bioengineering from Cornell University. His research focuses on the development of rule-based machine learning methods for complex bioinformatics problems and complex data simulation for proper algorithm evaluation and comparison. At GECCO he has authored two best papers, and organized the rule-based machine learning workshop and tutorial for 4 years each.
+[Dr. Urbanowicz](http://www.ryanurbanowicz.com/) is an Assistant Professor of Informatics in the Perelman School of Medicine at the University of Pennsylvania.  He received a Ph.D in Genetics from Dartmouth College and a Bachelors and Masters of Bioengineering from Cornell University. His research focuses on the development of data mining and machine learning methodologies for interpretably modeling complex patterns of association. He has specialized in areas including rule-based machine learning methods for complex bioinformatics problems, feature selection methodologies, and complex data simulation for proper algorithm evaluation and comparison. At GECCO he has authored two best papers, and organized a number of workshops and tutorial over the last decade.
 
 <br /><br/><br />
