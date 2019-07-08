@@ -10,27 +10,28 @@ Benchmarks are one of the primary tools that machine learning researchers use to
 
 This workshop will host speakers from around the world who will propose new standards for benchmarking evolutionary computation algorithms. These talks will focus on (i) characterizing current benchmarking methods to better understand what properties of an algorithm are tested via a benchmark comparison, and (ii) proposing improvements to benchmarking standards, for example via new benchmarks that fill gaps in current benchmarking suites or via better experimental methods. At the end of the workshop, we will host a panel discussion to review the merits of the proposed benchmarking standards and how we can integrate them into existing benchmarking workflows.
 
-### Call for Papers ###
+### Schedule ###
 
-The focus of this workshop is to highlight promising new standards for benchmarking practices in evolutionary computation research. As such, we are soliciting papers on topics that could include but are not limited to:
+16:10: 
+**Introduction**
+William La Cava
 
-* Examining the merits or issues regarding benchmarking practices.
-* Development or expansion of benchmark data archives or tools.
-* The importance of simulated vs. real-world bechmarks.
-* Analysis of, or comparison between established benchmarks.
-* Targeting benchmarks to different domains.
+16:25:
+**HIBACHI: A heuristic method for simulating data of arbitrary complexity to benchmark machine learning methods**
+Jason H. Moore
 
-### Important Dates ###
+16:55:
+**Exploring the MLDA Benchmark on the Nevergrad Platform**
+Jeremy Rapin, Marcus Gallagher, Pascal Kerschke, Mike Preuss, Olivier Teytaud
 
-Workshop paper submission deadline: April 3, 2019
+17:25:  
+**Comparison of Contemporary Evolutionary Algorithms on the Rotated Klee-Minty Problem**
+Michael Hellwig, Patrick Spettel, Hans-Georg Beyer
 
-Notification of acceptance: April 17, 2019
+17:55:
+**Program Synthesis Benchmark Suite**
+Thomas Helmuth 
 
-Camera-ready deadline: April 24, 2019
-
-### Submission Instructions
-
-Submissions are managed [through the GECCO submission site](https://ssl.linklings.net/conferences/gecco/).
 
 ### Organizers
 
